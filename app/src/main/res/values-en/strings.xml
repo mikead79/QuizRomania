@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Romania</string>
+    <string name="final1">"You got  "</string>
+    <string name="final2">"  points!"</string>
+    <string name="welcome">Do you want to test your knowledge about Romania? Hit Next!</string>
+    <string name="response93">77</string>
+    <string name="response92">71</string>
+    <string name="response91">65</string>
+    <string name="question9">How old was Nicolae Ceausescu when he died?</string>
+    <string name="question7">In what year was held the Union of Romanian Principates?</string>
+    <string name="question1">In which of the counties the county capital city has less residents than other cities?</string>
+    <string name="question10">In what year was held Battle of High Bridge (Vaslui)?</string>
+    <string name="question3">What is the county with the most inhabitants of Romania except Bucharest?</string>
+    <string name="question4">In which county is Duruitoarea Falls?</string>
+    <string name="question5">In which year Romania entered World War I?</string>
+    <string name="question6">In what year was appointed as President Nicolae Ceausescu in Romania?</string>
+    <string name="question8">What is the first county attested in 1392?</string>
+    <string name="final4">You have to learn more!</string>
+    <string name="final3">Congratulations!</string>
+</resources>

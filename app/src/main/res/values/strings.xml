@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Quiz Romania</string>
+    <string name="welcome">Vrei sa iti testezi cunostintele despre Romania? Apasa Next</string>
+    <string name="question1">In care dintre următoarele judeţe oraşul reşedinţă de judeţ nu este cel mai mare din punct de vedere al numărului de locuitori?</string>
+    <string name="response11" translatable="false">Prahova</string>
+    <string name="response12" translatable="false">Vaslui</string>
+    <string name="response13" translatable="false">Mehedinti</string>
+    <string name="answer1" translatable="false">Vaslui</string>
+    <string name="question2" translatable="false">Care este suprafaţa cursului Dunării de pe teritoriul României?</string>
+    <string name="response21" translatable="false">1.025</string>
+    <string name="response22" translatable="false">1.050</string>
+    <string name="response23" translatable="false">1.075</string>
+    <string name="answer2" translatable="false">1.075</string>
+    <string name="question3">Care este judeţul cu cei mai mulţi locuitori din România, exceptând municipiul Bucureşti?</string>
+    <string name="response31" translatable="false">Prahova</string>
+    <string name="response32" translatable="false">Timis</string>
+    <string name="response33" translatable="false">Iasi</string>
+    <string name="answer3" translatable="false">Iasi</string>
+    <string name="question4">În ce judeţ se află Cascada Duruitoarea?</string>
+    <string name="response41" translatable="false">Neamt</string>
+    <string name="response42" translatable="false">Bihor</string>
+    <string name="response43" translatable="false">Cluj</string>
+    <string name="answer4" translatable="false">Neamt</string>
+    <string name="question5">În ce an a intrat România în Primul Război Mondial?</string>
+    <string name="response51" translatable="false">1915</string>
+    <string name="response52" translatable="false">1916</string>
+    <string name="response53" translatable="false">1917</string>
+    <string name="answer5" translatable="false">1916</string>
+    <string name="question6">În ce an a fost numit Nicolae Ceaşescu în funcţia de preşedinte al României?</string>
+    <string name="response61" translatable="false">1974</string>
+    <string name="response62" translatable="false">1965</string>
+    <string name="response63" translatable="false">1970</string>
+    <string name="answer6" translatable="false">1974</string>
+    <string name="question7">În ce an a avut loc Unirea Principatelor Române?</string>
+    <string name="response71" translatable="false">1864</string>
+    <string name="response72" translatable="false">1859</string>
+    <string name="response73" translatable="false">1860</string>
+    <string name="answer7" translatable="false">1859</string>
+    <string name="question8">Care este primul judet atestat documentar, in 1392?</string>
+    <string name="response81" translatable="false">Arges</string>
+    <string name="response82" translatable="false">Valcea</string>
+    <string name="response83" translatable="false">Mehedinti</string>
+    <string name="answer8" translatable="false">Valcea</string>
+    <string name="question9">Câţi ani avea Nicolae Ceauşescu la momentul morţii sale?</string>
+    <string name="response91">65</string>
+    <string name="response92">71</string>
+    <string name="response93">77</string>
+    <string name="answer9" translatable="false">71</string>
+    <string name="question10">In ce an a avut loc Batalia de la Podul Inalt (Vaslui)?</string>
+    <string name="response101" translatable="false">1462</string>
+    <string name="response102" translatable="false">1450</string>
+    <string name="response103" translatable="false">1475</string>
+    <string name="answer10" translatable="false">1475</string>
+    <string name="final1">Ai obtinut \u0020</string>
+    <string name="final2">\u0020 puncte!</string>
+    <string name="final3">\u0020 Felicitari!</string>
+    <string name="final4">\u0020 Trebuie sa mai inveti!</string>
+</resources>

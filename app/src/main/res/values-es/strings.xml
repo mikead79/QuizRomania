@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Romania</string>
+    <string name="final1">"Tienes  "</string>
+    <string name="final2">"  puntos!"</string>
+    <string name="welcome">¿Quieres probar tus conocimientos sobre Rumania? Prensa Next!</string>
+    <string name="response93">77</string>
+    <string name="response92">71</string>
+    <string name="response91">65</string>
+    <string name="question9">¿Qué edad tenía Nicolae Ceausescu cuando murió??</string>
+    <string name="question1">¿En cuál de los condados la ciudad capital tiene menos residentes que otras ciudades?</string>
+    <string name="question10">¿En qué año se llevó a cabo la batalla de Puente Alto (Vaslui)?</string>
+    <string name="question2"></string>
+    <string name="question3">¿Cuál es la provincia con mayor número de habitantes de Rumania, excepto Bucarest?</string>
+    <string name="question4">¿En qué condado está la cascada Duruitoarea?</string>
+    <string name="question5">¿En qué año Rumania entró en la Primera Guerra Mundial?</string>
+    <string name="question6">¿En qué año fue nombrado como presidente Nicolae Ceausescu en Rumania?</string>
+    <string name="question7">¿En qué año se realizó la uníon de los Principados Rumanos?</string>
+    <string name="question8">¿Cuál es el primer condado atestiguado, en 1392?</string>
+    <string name="final4">Tienes que aprender más!</string>
+    <string name="final3">Enhorabuena!</string>
+</resources>
